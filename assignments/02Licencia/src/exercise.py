@@ -1,6 +1,7 @@
 def main():
     #escribe tu código abajo de esta línea
     edad=int(input('Ingresa tu edad: '))
+    #
     if edad>=18:
         ide=input('¿Tienes identificación oficial? (s/n): ')
         if ide=='s':
